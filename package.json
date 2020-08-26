@@ -1,0 +1,24 @@
+{
+  "name": "bot-bet",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "rm -rf ./dist && tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rafaeljordaojardim/bot-bet.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rafaeljordaojardim/bot-bet/issues"
+  },
+  "homepage": "https://github.com/rafaeljordaojardim/bot-bet#readme",
+  "devDependencies": {
+  },
+  "dependencies": {
+    "puppeteer": "^5.2.1"
+  }
+}
